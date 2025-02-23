@@ -1,2 +1,0 @@
-CrewAI==1.0.0
-LangGraph==2.0.0
